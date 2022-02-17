@@ -21,7 +21,8 @@ print("{:.2f}".format(distance))
 ```
 
 
-### OUTPUT:![OUTPUT](disoutput.PNG)
+### OUTPUT:![image](https://user-images.githubusercontent.com/94228215/154520513-59248a54-d01d-4b8f-8d2f-4ae8ba8a5f50.png)
+
 
 
 ### RESULT:
