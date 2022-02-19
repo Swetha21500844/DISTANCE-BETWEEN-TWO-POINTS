@@ -13,6 +13,9 @@ Substitute the values in the distance formula
 ### Step 5: End the program
 ### PROGRAM:
 ```
+Developed By:K.M.Swetha
+Register Number: 21500844
+
 import math
 d1=[10,6]
 d2=[4,2]
